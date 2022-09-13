@@ -3,6 +3,10 @@
     "hello_cycles": {
       "main": "src/hello_cycles/main.mo",
       "type": "motoko"
+    },
+    "hello_cycles2": {
+      "main": "src/hello_cycles/main.mo",
+      "type": "motoko"
     }
   },
   "defaults": {
